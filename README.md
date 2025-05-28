@@ -1,2 +1,2 @@
-# my-first-project-
+# my-first-project
 handle my first project 
